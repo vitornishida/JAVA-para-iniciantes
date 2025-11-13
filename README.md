@@ -55,16 +55,16 @@ O e-book é organizado para construir o conhecimento do leitor de forma estrutur
 
 ### 🗺️ PRÓXIMOS PASSOS NA JORNADA JAVA
 
-[cite_start]Para o aprofundamento do conhecimento, o leitor é incentivado a explorar os seguintes tópicos de forma progressiva[cite: 191]:
+Para o aprofundamento do conhecimento, o leitor é incentivado a explorar os seguintes tópicos de forma progressiva[cite: 191]:
 
-1.  [cite_start]Pilares Avançados de OO: Herança, Polimorfismo e Abstração[cite: 192].
-2.  [cite_start]Tratamento de Exceções: Uso de `try-catch` para lidar com erros em tempo de execução[cite: 192].
-3.  [cite_start]Frameworks: Estudar ambientes como **Spring Boot**, amplamente utilizados para desenvolvimento de aplicações *backend* corporativas[cite: 194].
+1.  Pilares Avançados de OO: Herança, Polimorfismo e Abstração[cite: 192].
+2.  Tratamento de Exceções: Uso de `try-catch` para lidar com erros em tempo de execução[cite: 192].
+3.  Frameworks: Estudar ambientes como **Spring Boot**, amplamente utilizados para desenvolvimento de aplicações *backend* corporativas[cite: 194].
 
 ---
 
 ### 👥 AUTORES
 
-* [cite_start]PEDRO HENRIQUE ALVES PASSERINI [cite: 6]
-* [cite_start]VITOR YOSHIAKI NISHIDA [cite: 6]
-* [cite_start]PATRYCK SHOITY TAKIMOTO FARONI [cite: 7]
+* PEDRO HENRIQUE ALVES PASSERINI
+* VITOR YOSHIAKI NISHIDA 
+* PATRYCK SHOITY TAKIMOTO FARONI
