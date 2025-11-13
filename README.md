@@ -58,4 +58,12 @@ Para o aprofundamento do conhecimento, o leitor é incentivado a explorar os seg
 
 1.  Pilares Avançados de OO: Herança, Polimorfismo e Abstração.
 2.  Tratamento de Exceções: Uso de `try-catch` para lidar com erros em tempo de execução.
-3.
+3.  Frameworks: Estudar ambientes como **Spring Boot**, amplamente utilizados para desenvolvimento de aplicações *backend* corporativas.
+
+---
+
+### 👥 AUTORES
+
+* PEDRO HENRIQUE ALVES PASSERINI
+* VITOR YOSHIAKI NISHIDA
+* PATRYCK SHOITY TAKIMOTO FARONI
